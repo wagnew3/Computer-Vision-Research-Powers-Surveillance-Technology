@@ -1,0 +1,46 @@
+Massachusetts Institute of Technology
+Stanford University
+Carnegie Mellon University
+University of Oxford
+University of Cambridge
+Harvard University
+EPFL
+ETH Zurich
+University of Toronto
+Princeton University
+National University of Singapore (NUS)
+Tsinghua University
+Imperial College London
+UCL
+University of Washington
+Columbia University
+Cornell University
+New York University (NYU)
+Peking University
+The University of Edinburgh
+University of Waterloo
+University of British Columbia
+The Hong Kong University of Science and Technology
+Georgia Institute of Technology
+The University of Tokyo
+California Institute of Technology (Caltech)
+The Chinese University of Hong Kong (CUHK)
+University of Texas at Austin
+The University of Melbourne
+University of Illinois at Urbana-Champaign
+Shanghai Jiao Tong University
+University of Pennsylvania
+KAIST - Korea Advanced Institute of Science & Technology
+Technical University of Munich
+The University of Hong Kong
+Université PSL
+Politecnico di Milano
+Australian National University (ANU)
+The University of Sydney
+KTH Royal Institute of Technology
+University of Southern California
+University of Amsterdam
+Yale University
+University of Chicago
+Seoul National University
+University of Michigan-Ann Arbor

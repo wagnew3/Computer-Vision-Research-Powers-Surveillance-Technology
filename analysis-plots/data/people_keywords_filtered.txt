@@ -1,0 +1,58 @@
+## final
+ad
+advertisement
+airport
+# does not affect numbers --> apartment
+# does not affect numbers --> army
+# does not affect numbers --> baggage
+caste
+# does not affect significantly & may be difficult to defend --> citizen
+combat
+# occurs in no patents --> convict
+crime
+# does not affect numbers --> criminal
+defense
+# does not affect numbers --> disability
+# does not affect numbers --> enemy
+ethnicity
+face
+facial
+# does not affect numbers --> facial recognition
+# occurs in no patents --> felon
+# does not affect numbers --> female
+# does not affect numbers --> foot traffic
+# does not affect numbers --> fraud
+# does not affect significantly & may be difficult to defend --> friend
+gender
+# does not affect significantly & may be difficult to defend --> geolocation
+hand
+iris
+# does not affect numbers --> irises
+# does not affect numbers --> jail
+# does not affect numbers --> kid
+license plate
+limb
+male
+# does not affect significantly & may be difficult to defend --> man
+military
+# occurs in no patents --> nonbinary
+office
+pedestrian
+# occurs in no patents --> penitentiary
+# does not affect numbers --> prison
+# does not affect numbers --> prisoner
+purchase
+recommend
+# does not affect numbers --> reidentification
+security
+sex
+# does not affect numbers --> sexuality
+# does not affect significantly & may be difficult to defend --> social network
+street
+# does not affect numbers --> surveil
+surveillance
+torso
+# occurs in no patents --> transgender
+# does not affect numbers --> underage
+woman
+# does not affect numbers --> youth

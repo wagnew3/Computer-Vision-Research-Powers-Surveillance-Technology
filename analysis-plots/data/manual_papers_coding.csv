@@ -1,0 +1,101 @@
+,paper_id,label,title,year
+0,paper 00,Human body parts,face recognition based on image sets,2010
+1,paper 01,Human bodies,measuring visual saliency by site entropy rate,2010
+2,paper 02,Human bodies,connecting modalities semi supervised segmentation and annotation of images using unaligned text corpora,2010
+3,paper 03,Human bodies,content aware ranking for visual search,2010
+4,paper 04,Human body parts,visual recognition and detection under bounded computational resources,2010
+5,paper 05,Human body parts,learning to share visual appearance for multiclass object detection,2011
+6,paper 06,Human bodies,image retrieval with geometry preserving visual phrases,2011
+7,paper 07,Unspecified data (does not state whether can be used for human data),least squares surface reconstruction from gradients direct algebraic methods with spectral tikhonov and constrained regularization,2011
+8,paper 08,Human body parts,an efficient real time method of fingertip detection,2011
+9,paper 09,Unspecified data (does not state whether can be used for human data),multiview specular stereo reconstruction of large mirror surfaces,2011
+10,paper 10,Human bodies,a flow model for joint action recognition and identity maintenance,2012
+11,paper 11,Human body parts,complex loss optimization via dual decomposition,2012
+12,paper 12,Human bodies,incremental gradient on the grassmannian for online foreground and background separation in subsampled video,2012
+13,paper 13,Human body parts,online robust image alignment via iterative convex optimization,2012
+14,paper 14,Human body parts,boosting algorithms for simultaneous feature extraction and selection,2012
+15,paper 15,Human body parts,watching unlabeled video helps learn new human actions from very few labeled snapshots,2013
+16,paper 16,Human body parts,a sentence is worth a thousand pixels,2013
+17,paper 17,Human bodies,large scale video summarization using web image priors,2013
+18,paper 18,Unspecified data (does not state whether can be used for human data),efficient object detection and segmentation for fine grained recognition,2013
+19,paper 19,Human spaces,plane based content preserving warps for video stabilization,2013
+20,paper 20,Human bodies,fast supervised hashing with decision trees for high dimensional data,2014
+21,paper 21,Human bodies,robust online multi object tracking based on tracklet confidence and online discriminative appearance learning,2014
+22,paper 22,Human bodies,investigating haze relevant features in a learning framework for image dehazing,2014
+23,paper 23,Human spaces,fourier analysis on transient imaging with a multifrequency time of flight camera,2014
+24,paper 24,Human bodies,adaptive color attributes for real time visual tracking,2014
+25,paper 25,Human body parts,rotating your face using multi task deep neural network,2015
+26,paper 26,Human body parts,saliency detection by multi context deep learning,2015
+27,paper 27,Human bodies,improving object proposals with multi thresholding straddling expansion,2015
+28,paper 28,Unspecified data (does not state whether can be used for human data),a solution for multi alignment by transformation synchronisation,2015
+29,paper 29,Non-human data,embedded phase shifting robust phase shifting with embedded signals,2015
+30,paper 30,Human bodies,multimodal multi stream deep learning for egocentric activity recognition,2016
+31,paper 31,Human body parts,actionness estimation using hybrid fully convolutional networks,2016
+32,paper 32,Human body parts,a polarimetric thermal database for face recognition research,2016
+33,paper 33,Human bodies,video paragraph captioning using hierarchical recurrent neural networks,2016
+34,paper 34,Human bodies,natural language object retrieval,2016
+35,paper 35,Human bodies,single image reflection suppression,2017
+36,paper 36,Human body parts,sphereface deep hypersphere embedding for face recognition,2017
+37,paper 37,Unspecified data (does not state whether can be used for human data),richardson lucy deblurring for moving light field cameras,2017
+38,paper 38,Human bodies,visual translation embedding network for visual relation detection,2017
+39,paper 39,Human body parts,ultrastereo efficient learning based matching for active stereo systems,2017
+40,paper 40,Human spaces,codeslam learning a compact optimisable representation for dense visual slam,2018
+41,paper 41,Human bodies,min entropy latent model for weakly supervised object detection,2018
+42,paper 42,Human bodies,learning to segment every thing,2018
+43,paper 43,Human spaces,adversarial feature augmentation for unsupervised domain adaptation,2018
+44,paper 44,Human bodies,weakly supervised action localization by sparse temporal pooling network,2018
+45,paper 45,Human body parts,skeleton based action recognition with directed graph neural networks,2019
+46,paper 46,Human bodies,competitive collaboration joint unsupervised learning of depth camera motion optical flow and motion segmentation,2019
+47,paper 47,Human spaces,devil is in the edges learning semantic boundaries from noisy annotations,2019
+48,paper 48,Human bodies,deep incremental hashing network for efficient image retrieval,2019
+49,paper 49,Human bodies,object aware aggregation with bidirectional temporal graph for video captioning,2019
+50,paper 50,Human bodies,efficient additive kernels via explicit feature maps,2010
+51,paper 51,Human body parts,aligning endoluminal scene sequences in wireless capsule endoscopy,2010
+52,paper 52,Human body parts,structural image representation for image registration,2010
+53,paper 53,Human bodies,event driven software architecture for multi camera and distributed surveillance research systems,2010
+54,paper 54,Human bodies,new features and insights for pedestrian detection,2010
+55,paper 55,Human bodies,global contrast based salient region detection,2011
+56,paper 56,Unspecified data (does not state whether can be used for human data),a unified csf based framework for edge detection and edge visibility,2011
+57,paper 57,Human body parts,interactively building a discriminative vocabulary of nameable attributes,2011
+58,paper 58,Human spaces,online environment mapping,2011
+59,paper 59,Human spaces,evaluating knowledge transfer and zero shot learning in a large scale setting,2011
+60,paper 60,Unspecified data (does not state whether can be used for human data),bispectral photometric stereo based on fluorescence,2012
+61,paper 61,Human body parts,making any planar surface into a touch sensitive display by a mere projector and camera,2012
+62,paper 62,Human body parts,affinity aggregation for spectral clustering,2012
+63,paper 63,Human spaces,micro phase shifting,2012
+64,paper 64,Human body parts,model recommendation for action recognition,2012
+65,paper 65,Human body parts,multipath sparse coding using hierarchical matching pursuit,2013
+66,paper 66,Human body parts,unsupervised salience learning for person re identification,2013
+67,paper 67,Human bodies,story driven summarization for egocentric video,2013
+68,paper 68,Human bodies,blocks that shout distinctive parts for scene classification,2013
+69,paper 69,Human spaces,depth acquisition from density modulated binary patterns,2013
+70,paper 70,Human bodies,spectral clustering with jensen type kernels and their multi point extensions,2014
+71,paper 71,Human bodies,generalized max pooling,2014
+72,paper 72,Human spaces,filter forests for learning data dependent convolutional kernels,2014
+73,paper 73,Human body parts,super resolving noisy images,2014
+74,paper 74,Human body parts,learning non linear reconstruction models for image set classification,2014
+75,paper 75,Human body parts,age and gender classification using convolutional neural networks,2015
+76,paper 76,Human body parts,pushing the frontiers of unconstrained face detection and recognition iarpa janus benchmark a,2015
+77,paper 77,Human spaces,deep convolutional neural fields for depth estimation from a single image,2015
+78,paper 78,Human bodies,video stitching with spatial temporal content preserving warping,2015
+79,paper 79,Unspecified data (does not state whether can be used for human data),convolutional neural networks at constrained time cost,2015
+80,paper 80,Human spaces,structure from motion with objects,2016
+81,paper 81,"Traces of socially significant human data (e.g. location, friends, cultural identity, preferences)",sketch me that shoe,2016
+82,paper 82,Human spaces,non local image dehazing,2016
+83,paper 83,Unspecified data (does not state whether can be used for human data),less is more zero shot learning from online textual documents with noise suppression,2016
+84,paper 84,Human body parts,progressively parsing interactional objects for fine grained action detection,2016
+85,paper 85,Human body parts,semantic amodal segmentation,2017
+86,paper 86,Human spaces,end to end ego lane estimation based on sequential transfer learning for self driving cars,2017
+87,paper 87,Human bodies,refinenet multi path refinement networks for high resolution semantic segmentation,2017
+88,paper 88,Human bodies,linknet exploiting encoder representations for efficient semantic segmentation,2017
+89,paper 89,Human spaces,comparative evaluation of hand crafted and learned local features,2017
+90,paper 90,Human body parts,arbitrary style transfer with deep feature reshuffle,2018
+91,paper 91,Human body parts,st gan spatial transformer generative adversarial networks for image compositing,2018
+92,paper 92,Human body parts,analyzing filters toward efficient convnet,2018
+93,paper 93,Human spaces,dota a large scale dataset for object detection in aerial images,2018
+94,paper 94,Human spaces,taskonomy disentangling task transfer learning,2018
+95,paper 95,Human bodies,deep flow guided video inpainting,2019
+96,paper 96,Human body parts,panoptic segmentation,2019
+97,paper 97,Human body parts,depth aware video frame interpolation,2019
+98,paper 98,Human bodies,pointpillars fast encoders for object detection from point clouds,2019
+99,paper 99,Human spaces,incremental learning with unlabeled data in the wild,2019

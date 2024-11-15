@@ -1,0 +1,204 @@
+## body_parts
+iris
+irises
+face
+faces
+facial
+gesture
+gestures
+torso
+torsos
+torsoes
+anatomy
+anatomies
+joint
+joints
+limb
+limbs
+hand
+hands
+finger
+fingers
+
+## bodies
+person
+people
+track
+tracks
+human
+humans
+pedestrian
+pedestrians
+foot traffic
+body
+bodies
+
+## scenes
+room
+rooms
+scene
+scenes
+office
+offices
+store
+stores
+street
+streets
+crowd
+crowds
+home
+homes
+house
+houses
+apartment
+apartments
+airport
+airports
+
+## significant_traces
+location
+locations
+geolocation
+geolocations
+GPS
+friend
+friends
+social network
+family
+preference
+preferences
+
+## unspecified
+image
+text
+object
+
+## wireless
+wireless
+wifi
+server
+cloud
+network
+
+## soft_influence
+personalize
+personalizes
+recommend
+recommends
+preference
+preferences
+targeting
+advertisement
+purchase
+
+## hard_movement
+travel
+border
+borders
+license plate
+airport
+airports
+baggage
+
+## hard_crime
+criminal
+criminals
+crime
+crimes
+felon
+felons
+convict
+convicts
+prisoner
+prisoners
+jail
+jails
+penitentiary
+penitentiaries
+prison
+prisons
+fraud
+security
+
+## hard_military
+army
+defense
+combat
+enemy
+enemies
+drone
+aircraft
+aircrafts
+military
+
+## demographic
+race
+ethnicity
+class
+gender
+female
+male
+woman
+man
+sexuality
+sex
+caste
+disability
+nonbinary
+non-binary
+trans
+transgender
+
+## children
+child
+children
+kid
+minor
+youth
+age
+underage
+
+## surveillance_tasks
+reidentification
+recognition
+identification
+tracking
+
+## surveil
+surveil
+surveillance
+
+## consumers
+targeting
+advertisement
+ad
+purchase
+client
+consumer
+
+## citizens
+national
+resident
+taxpayer
+citizen
+
+## medical
+medical
+health
+surgery
+organ
+bone
+medicine
+doctor
+hospital
+therapy
+therapies
+drug
+treatment
+cancer
+mri
+xray
+x-ray
+tumor
+disease
+radiologist

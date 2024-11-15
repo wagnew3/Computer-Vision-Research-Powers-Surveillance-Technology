@@ -1,0 +1,182 @@
+## surveil
+surveil  # very strong
+surveillance  # very strong
+
+## body_parts
+iris
+irises
+face
+facial
+gesture
+torso
+anatomy
+anatomies
+limb
+hand
+finger
+
+## bodies
+person
+people
+human
+pedestrian
+foot traffic
+
+## scenes
+room
+scene
+office
+street
+crowd
+home
+house
+apartment
+airport
+
+## significant_traces
+location
+# locations  # not assessed
+geolocation
+# geolocations  # not assessed
+GPS
+friend
+# friends  # not assessed
+social network
+family
+preference
+# preferences  # not assessed
+
+
+
+## hard_movement
+travel
+border
+# borders  # not assessed
+license plate
+airport
+# airports  # not assessed
+baggage
+
+## hard_crime
+criminal
+# criminals  # not assessed
+crime
+# crimes  # not assessed
+# felon  # does not occur
+# felons  # not assessed
+# convict  # does not occur
+# convicts  # not assessed
+prisoner  # strong
+# prisoners  # not assessed
+# jail  # does not occur
+# jails  # not assessed
+# penitentiary  # does not occur
+# penitentiaries  # does not occur
+prison
+# prisons  # not assessed
+fraud  # consider
+# security  # technical meaning
+# closed circuit camera system  # not assessed
+# security systems  # not assessed
+
+## hard_military
+# army  # does not occur
+# defense  # technical meaning
+combat
+enemy
+enemies
+drone
+aircraft  # reconsider
+# aircrafts  # not assessed
+military
+
+## demographic
+race
+ethnicity
+class
+gender
+female
+male
+woman
+man
+# sexuality  # does not occur
+sex
+# caste  # does not occur
+disability
+# nonbinary  # does not occur
+non-binary
+trans
+# transgender  # does not occur
+
+## children
+child
+children
+kid
+minor
+youth
+age
+# underage  # does not occur
+
+## surveillance_tasks
+# reidentification  # drop (based on manual inspection)
+# recognition  # not assessed
+# identification  # not assessed
+# tracking  # not assessed
+
+## consumers
+targeting
+advertisement
+ad
+purchase
+client
+consumer
+
+## citizens
+national
+resident
+# taxpayer  # does not occur
+citizen
+
+## medical
+medical
+health
+surgery
+organ
+bone
+medicine
+doctor
+hospital
+therapy
+therapies
+drug
+treatment
+cancer
+# mri  # does not occur
+xray
+x-ray
+tumor
+disease
+radiologist
+
+## unspecified
+image
+text
+object
+
+## wireless
+wireless
+wifi
+server
+cloud
+network
+
+## soft_influence
+personalize  # drop
+# personalizes  # not assessed
+recommend  # drop
+# recommends  # not assessed
+preference
+# preferences  # not assessed
+targeting
+advertisement
+purchase

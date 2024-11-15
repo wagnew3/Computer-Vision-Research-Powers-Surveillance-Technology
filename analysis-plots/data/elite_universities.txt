@@ -1,0 +1,127 @@
+Massachusetts Institute of Technology
+Stanford University
+Carnegie Mellon University
+University of Oxford
+University of Cambridge
+Harvard University
+EPFL
+ETH Zurich
+University of Toronto
+Princeton University
+National University of Singapore
+Tsinghua University
+Imperial College London
+UCL
+University of Washington
+Columbia University
+Cornell University
+New York University
+Peking University
+The University of Edinburgh
+University of Waterloo
+University of British Columbia
+The Hong Kong University of Science and Technology
+Georgia Institute of Technology
+The University of Tokyo
+California Institute of Technology
+The Chinese University of Hong Kong
+University of Texas at Austin
+The University of Melbourne
+University of Illinois at Urbana-Champaign
+Shanghai Jiao Tong University
+University of Pennsylvania
+KAIST - Korea Advanced Institute of Science & Technology
+Technical University of Munich
+The University of Hong Kong
+Université PSL
+Politecnico di Milano
+Australian National University
+The University of Sydney
+KTH Royal Institute of Technology
+University of Southern California
+University of Amsterdam
+Yale University
+University of Chicago
+Seoul National University
+University of Michigan-Ann Arbor
+UCL
+University of Washington
+Columbia University
+Cornell University
+New York University
+Peking University
+The University of Edinburgh
+University of Waterloo
+University of British Columbia
+The Hong Kong University of Science and Technology
+Georgia Institute of Technology
+The University of Tokyo
+California Institute of Technology
+The Chinese University of Hong Kong
+University of Texas at Austin
+The University of Melbourne
+University of Illinois at Urbana-Champaign
+Shanghai Jiao Tong University
+University of Pennsylvania
+KAIST - Korea Advanced Institute of Science & Technology
+Technical University of Munich
+The University of Hong Kong
+Université PSL
+Politecnico di Milano
+Australian National University
+The University of Sydney
+KTH Royal Institute of Technology
+University of Southern California
+University of Amsterdam
+Yale University
+University of Chicago
+Seoul National University
+University of Michigan-Ann Arbor
+Aarhus University
+Boston University
+City University of Hong Kong
+Hong Kong SAR
+Delft University of Technology
+Duke University
+Ecole Polytechnique
+Eindhoven University of Technology
+Fudan University
+Indian Institute of Technology Bombay
+Indian Institute of Technology Delhi
+Johns Hopkins University
+KU Leuven
+King Abdulaziz University
+King's College London
+Korea University
+Kyoto University
+Lomonosov Moscow State University
+Ludwig-Maximilians-Universität München
+McGill University
+Monash University
+National Taiwan University
+Politecnico di Torino
+Purdue University
+RWTH Aachen University
+Sapienza University of Rome
+Sorbonne University
+Sungkyunkwan University
+Technische Universität Berlin
+Technische Universität Wien
+The Hong Kong Polytechnic University
+The University of Auckland
+The University of Manchester
+The University of New South Wales
+The University of Queensland
+Tokyo Institute of Technology
+Universidad de Chile
+Universidade de São Paulo
+Alma Mater Studiorum - University of Bologna
+Universitat Politècnica de Catalunya · BarcelonaTech
+Université catholique de Louvain
+Université de Montréal
+Universiti Malaya
+University of Alberta
+University of Science and Technology of China
+University of Technology Sydney
+University of Wisconsin-Madison
+Zhejiang University
