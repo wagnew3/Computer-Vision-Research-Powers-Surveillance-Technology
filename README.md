@@ -56,7 +56,6 @@ Saved on disk: Raw MAG.
 1) Save MAG in a compressed and faster to load format. *utils.load_mag*, saves a pickled and compressed dict of pandas dataframes of a subset of MAG files as f"cached_{n_rows}.lz4", where n_rows is the number of rows to load for each MAG files.
 2) Create dictionaries to allow deduplication of MAG IDs. Some papers have several versions (conference and arxiv, for example). To handle this, create dictionaries that map each MAG ID onto every other mag ID that shares the same paper title and MAG author IDs. We do this by running *utils.make_title_date_to_dup_mags*
 3) Make citation graph. *utils.make_mag_graph*
-4) analyze_ml_graphs.py code to analyze preprocessed citation graphs.
 
 Once the raw data is processed into pandas dataframes, the paper MAG deduplication dictionary is created, and the paper citation graph is created, we can start using the data to answer questions. For example, *utils.get_conferences_subgraph* returns a subgraph of the paper citation graph that is all papers beloning to a particular set of conferences, and all papers citing those papers to a certain citation depth.
 
@@ -67,9 +66,7 @@ Once the raw data is processed into pandas dataframes, the paper MAG deduplicati
 
 #### Analysis
 
-*analysis-plots* directory contains code to perform all analysis of papers and patents and all plots presented in the paper. Specifically, *mega_analysis_keywords.ipynb* contains code to conduct analysis across years, decades, institutions, countries, and subfields.
-
-*save_ml_graphs.py* code for processing MAG data into conference citation subgraphs.  
+*analysis-plots*: directory contains code to perform all analysis of papers and patents and all plots presented in the paper. Specifically, *mega_analysis_keywords.ipynb* contains code to conduct analysis across years, decades, institutions, countries, and subfields.
 
 *analyze_ml_graphs.py*: code to analyze preprocessed citation graphs.
 
@@ -85,3 +82,8 @@ The randomly sampled set of 100 papers and 100 patents is included, along with t
 
 ### Code
 The code to generate statistics and plots from these annotations is included in `manual_annotations.ipynb`.
+
+
+## Corresponding authors
+
+Correspondence and requests for materials can be addressed to Pratyusha Ria Kalluri (pkalluri at stanford.edu), William Agnew (wagnew at andrew.cmu.edu), or Abeba Birhane (birhanea at tcd.ie).
