@@ -4,7 +4,7 @@
 
 We use several datasets in this project:
 
-1) [Microsoft Academic Graph (MAG)](https://docs.microsoft.com/en-us/academic-services/graph/reference-data-schema). Contains paper citations, paper authors, author affiliations, and lots of other info related to papers.
+1) [Microsoft Academic Graph (MAG)](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/). Contains paper citations, paper authors, author affiliations, and lots of other info related to papers.
 
 2) [Paper-patent citations](https://onlinelibrary.wiley.com/doi/10.1111/jems.12455). Contains linkages between MAG paper IDs and patent IDs.
 
