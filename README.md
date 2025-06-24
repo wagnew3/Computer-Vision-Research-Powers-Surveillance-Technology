@@ -17,7 +17,7 @@ We use this corpus to conduct large-scale lexicon-based analysis and in-depth ma
 
 Prerequisites: [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) and [git](https://github.com/git-guides/install-git)
 
-`git clone git@github.com:wagnew3/whatisai.git`
+`git clone https://github.com/wagnew3/Computer-Vision-Research-Powers-Surveillance-Technology.git whatisai`
 
 `cd whatisai`
 
