@@ -1,7 +1,5 @@
 ## final
 advertisement
-age
-anatomy
 anatomies
 airport
 apartment
@@ -18,13 +16,11 @@ foot traffic
 gender
 gesture
 irises
-kid
 license plate
 limb
 military
 prisoner
 purchase
-recommend
 room
 social network
 street
@@ -32,5 +28,4 @@ surveil
 surveillance
 track
 torso
-underage
 woman

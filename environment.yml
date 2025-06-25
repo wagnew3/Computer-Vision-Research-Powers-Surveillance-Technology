@@ -82,4 +82,3 @@ dependencies:
     - typing-extensions==4.1.1
     - urllib3==1.26.9
     - zict==2.1.0
-prefix: /home/willie/anaconda3/envs/whatisai

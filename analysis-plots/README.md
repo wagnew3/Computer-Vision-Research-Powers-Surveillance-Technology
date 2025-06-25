@@ -1,12 +1,11 @@
 # Summary
 
-mega_analysis_keywords.ipynb: generate plots and statistics from paper and patent metadata
+* lexicon-based-analysis.ipynb: generate plots and statistics based on lexicon-based analysis of papers and patents
 
-manual_annotations.ipynb: generate statistics from manual annotation data
+* content-analysis.ipynb: generate plot and statistics from manual content analysis of papers and patents
 
-data: folder of data necessary for analysis
+* data: folder of data necessary for analysis
 
-figures: folder of generated figures
+* figures: folder of generated figures
 
-Generated figures match corresponding figures in the figures/ folder. Runtime should be under 10 minutes.
-
+Generated figures match figures in the figures/ folder. Runtime should be under 10 minutes.
